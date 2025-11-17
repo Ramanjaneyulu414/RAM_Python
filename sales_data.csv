@@ -1,0 +1,19 @@
+Week,Product,Units_Sold,Unit_Price,Marketing_Spend
+1,Product A,120,10,5000
+1,Product B,80,12,3000
+1,Product C,45,15,2000
+2,Product A,150,10,5500
+2,Product B,70,12,2500
+2,Product C,60,15,2200
+3,Product A,170,10,6000
+3,Product B,90,12,3200
+3,Product C,50,15,2100
+4,Product A,160,10,5800
+4,Product B,100,12,3300
+4,Product C,55,15,2300
+5,Product A,180,10,6200
+5,Product B,110,12,3400
+5,Product C,65,15,2500
+6,Product A,200,10,6500
+6,Product B,120,12,3600
+6,Product C,70,15,2600
