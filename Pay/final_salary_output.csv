@@ -1,0 +1,6 @@
+name,role,employee_id,final_salary,days_present,leaves,per_day_salary,salary
+Rahul,Python Intern,101,22000.0,22,8,1000.0,30000
+Priya,Full Stack,102,20000.0,20,10,1000.0,30000
+Arjun,Data Science,103,23000.0,23,7,1000.0,30000
+Meena,AI/ML,104,21000.0,21,9,1000.0,30000
+Kiran,Gen AI,105,24000.0,24,6,1000.0,30000
